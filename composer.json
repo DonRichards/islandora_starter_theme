@@ -1,5 +1,5 @@
 {
-    "name": "islandora/islandora_starter_theme",
+    "name": "islandora/idc_ui_theme_boots",
     "type": "drupal-theme",
     "description": "SASS subtheme for Barrio Theme.",
     "homepage": "http://drupal.org/project/bootstrap_sass",

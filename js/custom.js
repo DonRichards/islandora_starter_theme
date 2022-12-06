@@ -7,7 +7,7 @@
 
   'use strict';
 
-  Drupal.behaviors.islandora_starter_theme = {
+  Drupal.behaviors.idc_ui_theme_boots = {
     attach: function(context, settings) {
 
       // Custom code here
